@@ -1,7 +1,7 @@
 body {
 font-family: 'Roboto', sans-serif;
 	width: 800px;
-	background-image: url("C:/Users/knt6r/Desktop/testweb/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8-reverse.png");
+	background-image: url("C:/Users/knt6r/Desktop/keicyt-site/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8-reverse.png");
 	background-color: rgba(255,204,204,.02);
 }
 
@@ -65,7 +65,7 @@ a:active {
 	float: left;
 	width: 190px;
 	height: 2000px;
- 	background-image: url("C:/Users/knt6r/Desktop/testweb/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8.png"); 
+ 	background-image: url("C:/Users/knt6r/Desktop/keicyt-site/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8.png"); 
 }
 
 .sidebar {
