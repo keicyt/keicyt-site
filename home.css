@@ -1,0 +1,124 @@
+body {
+font-family: 'Roboto', sans-serif;
+	width: 800px;
+	background-image: url("C:/Users/knt6r/Desktop/testweb/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8-reverse.png");
+	background-color: rgba(255,204,204,.02);
+}
+
+
+h1 {
+	font-size: 25px;
+	font-weight: 400;
+	color: rgba(0,0,0,.6);
+	border-bottom: 2px dotted rgba(255,204,204,.4);
+	padding-bottom: 0px;
+	padding-left: 5px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	color: rgba(0,0,0,.6);
+	float: right;
+	font-size: 20px;
+	font-weight: 300;
+	width: 560px;
+	height: 25px;
+	background-color: rgba(255,255,255,0.8);
+	border-bottom: 2px dotted rgba(255,204,204,.4);
+	margin-right: 30px;
+	margin-left: 15px;
+	margin-bottom: 0px;
+	margin-top: 14px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+a {
+	text-decoration: none;
+color: rgba(0,0,0,.6);}
+
+a:visited {
+color: rgba(0,0,0,.6);}
+
+h2 a:hover {
+	background-color: rgba(204,255,204,.05);
+	border-top: 2px dotted rgba(255,204,204,.2);
+	border-bottom: 2px dotted rgba(255,204,204,.2);
+	border-radius: 2px;
+	color: rgba(0,0,0,1);
+}
+a:active {
+		bborder-bottom: 2px dotted rgba(255,255,204,.5);
+}
+
+.navlink {
+	padding: 0;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.navstripes {
+	position: fixed;
+	float: left;
+	width: 190px;
+	height: 2000px;
+ 	background-image: url("C:/Users/knt6r/Desktop/testweb/images/stripe_b0d62e6e972e1033e4c3e7528dbceae8.png"); 
+}
+
+.sidebar {
+ 	position: fixed;
+ 	float: left;
+ 	margin-right: 5px;
+ 	margin-left: 5px;
+ 	margin-top: 5px;
+ 	width: 170px;
+ 	padding-left: 5px;
+ 	background-color: rgba(255,255,255,0.8);
+ }
+
+ h2 {
+ 	font-size: 16px;
+font-family: 'Roboto', sans-serif;
+font-weight: 300;
+color: rgba(0,0,0,.5);
+margin-left: 20px;
+padding-left: 20px;
+ }
+ 
+ .about {
+ 	font-family: 'Roboto', sans-serif;
+	color: rgba(0,0,0,.6);
+	font-size: 14px;
+	font-weight: 300;
+	background-color: rgba(255,255,255,0.8);
+	padding: 5px;
+	width: 340px;
+	text-align: justify;
+ }
+
+ .section {
+ 	width: 500px;
+ 	float: right;
+ 	margin-right: 80px;
+ }
+
+ table {
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+
+ .slides {
+ 	float: right;
+ 	padding-top: 10px;
+ 	position: relative;
+}
+
+#thumb {
+	width: 140px;
+	height: 140px;
+	border: 2px solid rgba(0,0,0,.2);
+	margin: 30px;
+}
